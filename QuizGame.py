@@ -1,5 +1,5 @@
-print(" Welcome To My quiz Game \n Interesting Game to Play")
-Player = input(" Do you want to play the game? \n" )
+print(" Welcome To football quiz Game ")
+Player = input(" Do you want to play the game? (yes or no)\n" )
 if Player.lower() != 'yes':
     print("Good Bye")
     quit()  
