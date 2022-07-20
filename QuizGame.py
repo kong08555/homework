@@ -10,7 +10,7 @@ print("Let's Start the Game :) ",name_player)
 
 score = 0
 
-answer = input(' What is CPU stands for? \n ')
+answer = input(' UCL in 2022 what team meets what team in final\n team1 \n ')
 if answer.lower() == 'central processing unit':
     print("Correct")
     score += 1
