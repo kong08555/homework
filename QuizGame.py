@@ -16,8 +16,8 @@ if answer.lower() == "real mardrid":
     score += 1
 else:
     print('Wrong')
-answer = input(' team2 \n ')
-if answer.lower() == 'graphical processing unit':
+answer = input('who is most assists in premier league\n (trent alexander arnold, harry kane, kevin de bryne, mohamed salah, mason mount) \n ')
+if answer.lower() == 'mohamed salah':
     print("Correct")
     score += 1
 else:
