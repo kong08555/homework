@@ -23,8 +23,8 @@ if answer.lower() == 'mohamed salah':
 else:
     print('Wrong')
 
-answer = input(' What is RAM stands for? \n ')
-if answer.lower() == 'random access memory':
+answer = input(' how many goals does karim benzema score in UCL\n(17, 15, 20, 18, 14) \n ')
+if answer.lower() == '15':
     print("Correct")
     score += 1
 else:
