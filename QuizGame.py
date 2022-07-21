@@ -23,15 +23,15 @@ if answer.lower() == 'mohamed salah':
 else:
     print('Wrong')
 
-answer = input(' how many goals does karim benzema score in UCL\n(17, 15, 20, 18, 14) \n ')
+answer = input(' how many goals does karim benzema score in UCL?\n(17, 15, 20, 18, 14) \n ')
 if answer.lower() == '15':
     print("Correct")
     score += 1
 else:
     print('Wrong')
 
-answer = input(' What is ROM stands for? \n ')
-if answer.lower() == 'read only memory':
+answer = input(' luiz diaz his first goal for liverpool against what team? \n(brighton, benfica, norwich, everton, inter milan) ')
+if answer.lower() == 'norwich':
     print("Correct")
     score += 1
 else:
