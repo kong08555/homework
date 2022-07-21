@@ -10,7 +10,7 @@ print("Let's Start the Game :) ",name_player)
 
 score = 0
 
-answer = input(' UCL in 2022 what team wins \n ')
+answer = input(' UCL in 2022 what team wins?\n (liverpool or real mardrid)\n ')
 if answer.lower() == "real mardrid":
     print("Correct")
     score += 1
@@ -37,8 +37,8 @@ if answer.lower() == 'norwich':
 else:
     print('Wrong')
 
-answer = input(' Mouse is an input device or output device? \n ')
-if answer.lower() == 'input device':
+answer = input(' who is the last goal for manchester united this season\n (ronaldo, dalot, lindelof, elanga, varane) \n ')
+if answer.lower() == 'varane':
     print("Correct")
     score += 1
 else:
